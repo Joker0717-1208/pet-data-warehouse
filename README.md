@@ -126,7 +126,6 @@ pet-data-warehouse/
 
 
 
-\- 用 Python / Matplotlib 生成可视化图表
 
 \- 接入真实 IoT 设备数据（智能喂食器）
 
