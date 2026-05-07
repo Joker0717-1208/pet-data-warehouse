@@ -42,6 +42,14 @@
 
 
 
+\## 可视化展示
+
+![库存分布](inventory_chart.png)
+
+![临期预警](alert_chart.png)
+
+
+
 \## 数据表说明
 
 
